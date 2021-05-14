@@ -1,0 +1,94 @@
+[33mcommit a7c49b729716723684030f563e8777ab3016fd75[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 5cbfc60 e975e8f
+Author: ssp339cloud <83786160+ssp339cloud@users.noreply.github.com>
+Date:   Fri May 14 22:15:31 2021 +0000
+
+    Merge pull request #1 from ssp339cloud/master2
+    
+    Master2
+
+[33mcommit e975e8ffb7c2248b2a4b1028202e29401227db0b[m[33m ([m[1;32mmaster2[m[33m)[m
+Author: prasad <ssp339.cloud@gmail.com>
+Date:   Fri May 14 22:13:01 2021 +0000
+
+    Added code on f3&f4 for next release
+
+[33mcommit 7b94a555db209ec27fbe750d6ef044341fc4a44d[m
+Author: prasad <ssp339.cloud@gmail.com>
+Date:   Fri May 14 22:12:14 2021 +0000
+
+    Added code on f1&f2 for next release
+
+[33mcommit 5cbfc60f7207688d341038bd8bcc2d2bf389d2b6[m
+Merge: a31aa0e ec3a829
+Author: prasad <ssp339.cloud@gmail.com>
+Date:   Fri May 14 21:15:50 2021 +0000
+
+    merge conflicts resolved
+
+[33mcommit a31aa0e7ff064d450e004f8837e4631946f09ba8[m
+Author: prasad <ssp339.cloud@gmail.com>
+Date:   Fri May 14 21:07:19 2021 +0000
+
+    added code in f4
+
+[33mcommit ec3a829ab7593000ec46d147614ae989f3b9e201[m
+Author: ssp339cloud <83786160+ssp339cloud@users.noreply.github.com>
+Date:   Fri May 14 21:05:39 2021 +0000
+
+    Update f4
+
+[33mcommit 0b30a6582479c06a92c128b0a249879b3fb85c48[m
+Merge: 8fff378 2c50209
+Author: prasad <ssp339.cloud@gmail.com>
+Date:   Fri May 14 21:03:08 2021 +0000
+
+    Merge branch 'master' of github.com:ssp339cloud/gp1
+
+[33mcommit 8fff37843e7498a38bb1b66ba52315e546b1a382[m
+Author: prasad <ssp339.cloud@gmail.com>
+Date:   Fri May 14 21:02:21 2021 +0000
+
+    file=f4
+
+[33mcommit 2c502093ec601ec498364c2a1d3e64deec472690[m
+Author: ssp339cloud <83786160+ssp339cloud@users.noreply.github.com>
+Date:   Fri May 14 21:01:34 2021 +0000
+
+    Update file4
+
+[33mcommit d4e3bf01a6104b6b57bc3619d774f45bba578485[m
+Author: ssp339cloud <83786160+ssp339cloud@users.noreply.github.com>
+Date:   Fri May 14 21:00:17 2021 +0000
+
+    Update file4
+
+[33mcommit a947fedb0feae14d3c23d90752a61b0b38700a98[m
+Author: ssp339cloud <83786160+ssp339cloud@users.noreply.github.com>
+Date:   Fri May 14 20:59:23 2021 +0000
+
+    Update file4
+
+[33mcommit bbf76640f5f70032754240d8232943b076339d7e[m
+Author: prasad <ssp339.cloud@gmail.com>
+Date:   Fri May 14 19:45:27 2021 +0000
+
+    newcode4
+
+[33mcommit 15294428c0f5e7cd62851ecf839459d26afdf821[m
+Author: prasad <ssp339.cloud@gmail.com>
+Date:   Fri May 14 18:19:50 2021 +0000
+
+    newcode3
+
+[33mcommit 244101c0e96d2ad92102beefe3ab398a4d17dd22[m
+Author: prasad <ssp339.cloud@gmail.com>
+Date:   Fri May 14 18:19:12 2021 +0000
+
+    newcode2
+
+[33mcommit f4472e77e6de385ef5b808824c5fff201d5c8144[m
+Author: prasad <ssp339.cloud@gmail.com>
+Date:   Fri May 14 18:18:23 2021 +0000
+
+    newcode1
